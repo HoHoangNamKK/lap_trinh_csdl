@@ -1,0 +1,23 @@
+﻿@model demo2.Models.Flower
+
+@{
+    ViewData["Title"] = "Chi tiết Hoa";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>@Model.Name</h4>
+    <p><strong>Giá:</strong> @Model.Price.ToString("N0") VNĐ</p>
+    <p><strong>Hình ảnh:</strong></p>
+    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        <img src="@Model.ImageUrl" alt="Hình ảnh" width="200" />
+    }
+    <p><strong>Loại hoa:</strong> @Model.Category?.Name</p>
+</div>
+
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Sửa</a>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</p>

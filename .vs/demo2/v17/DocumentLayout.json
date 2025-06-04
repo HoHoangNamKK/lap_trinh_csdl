@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zalo  downloard\\demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\flowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\flowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\flowers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\flowers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:models\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\models\\flowercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:models\\flowercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\migrations\\20250427040704_recreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:migrations\\20250427040704_recreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\migrations\\20250427034805_updatedatabasefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:migrations\\20250427034805_updatedatabasefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\migrations\\20250426173251_shoppingupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:migrations\\20250426173251_shoppingupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\migrations\\20250425185554_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:migrations\\20250425185554_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\flowers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\flowers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\flowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\flowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|d:\\zalo  downloard\\demo2\\views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B29F2D8-805B-48AE-9D19-EF349D4B4E7C}|demo2.csproj|solutionrelative:views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\source\\repos\\demo2\\Migrations\\20250426172617_RecreateFlowersSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\AppData\\Local\\Temp\\sowbz4bm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:55:28.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:53:50.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:24:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flowers\\Delete.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Flowers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T18:44:08.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flowers\\Create.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Flowers\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T18:43:21.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:55:32.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T04:03:29.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T18:55:38.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:54:57.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Models\\Flower.cs",
+              "RelativeDocumentMoniker": "Models\\Flower.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Models\\Flower.cs",
+              "RelativeToolTip": "Models\\Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:31:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlowerCreateViewModel.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Models\\FlowerCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\FlowerCreateViewModel.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Models\\FlowerCreateViewModel.cs",
+              "RelativeToolTip": "Models\\FlowerCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:06:11.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:57:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:52:06.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250427040704_ReCreateDb.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Migrations\\20250427040704_ReCreateDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427040704_ReCreateDb.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Migrations\\20250427040704_ReCreateDb.cs",
+              "RelativeToolTip": "Migrations\\20250427040704_ReCreateDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:07:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250427034805_UpdateDatabaseFix.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Migrations\\20250427034805_UpdateDatabaseFix.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427034805_UpdateDatabaseFix.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Migrations\\20250427034805_UpdateDatabaseFix.cs",
+              "RelativeToolTip": "Migrations\\20250427034805_UpdateDatabaseFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:48:05.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250426173251_ShoppingUpdate.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Migrations\\20250426173251_ShoppingUpdate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250426173251_ShoppingUpdate.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Migrations\\20250426173251_ShoppingUpdate.cs",
+              "RelativeToolTip": "Migrations\\20250426173251_ShoppingUpdate.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:32:51.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250425185554_InitialCreate.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Migrations\\20250425185554_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250425185554_InitialCreate.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Migrations\\20250425185554_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250425185554_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:55:55.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:52:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:10:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:40:52.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlowersController.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Controllers\\FlowersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlowersController.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Controllers\\FlowersController.cs",
+              "RelativeToolTip": "Controllers\\FlowersController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAwFAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:38:14.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:37:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T02:53:54.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T03:08:47.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flowers\\Details.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Flowers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T18:44:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:31:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T02:34:56.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T18:55:30.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flowers\\Edit.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Flowers\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T18:43:51.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flowers\\Index.cshtml",
+              "ToolTip": "D:\\zalo  downloard\\demo2\\Views\\Flowers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Flowers\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T18:42:04.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250426172617_RecreateFlowersSchema.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\demo2\\Migrations\\20250426172617_RecreateFlowersSchema.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\demo2\\Migrations\\20250426172617_RecreateFlowersSchema.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:26:17.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "sowbz4bm..sql",
+              "DocumentMoniker": "C:\\Users\\ACER\\AppData\\Local\\Temp\\sowbz4bm..sql",
+              "ToolTip": "C:\\Users\\ACER\\AppData\\Local\\Temp\\sowbz4bm..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-22T03:21:26.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿@model demo2.ViewModels.FlowerCreateViewModel
+
+@{
+    ViewData["Title"] = "Thêm Hoa mới";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="ImageFile"></label>
+        <input asp-for="ImageFile" type="file" class="form-control" />
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="CategoryId">Loại hoa</label>
+        <select asp-for="CategoryId" asp-items="ViewBag.CategoryList" class="form-control"></select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Thêm Hoa</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
